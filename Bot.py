@@ -444,12 +444,12 @@ class MangaDexBot:
                 caption += (
                     f"\n{clean_group}\n"
                     f"English</blockquote>\n\n"
-                    f"@seishiro_atanime"
+                    f"@LinesOrThreads"
                 )
 
                 post_photo = str(thumb_path) if thumb_path else None
                 
-                channel_link = "https://t.me/about_zani/195"
+                channel_link = "t.me/linesOrThreads"
 
                 
                 success = False
