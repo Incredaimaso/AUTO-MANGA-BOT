@@ -91,8 +91,8 @@ async def start_msg(client, message):
                 InlineKeyboardButton(" Help", callback_data="help_menu")
             ],
             [
-                InlineKeyboardButton(" Official Channel", url="https://t.me/RexBots_Official"),
-                InlineKeyboardButton(" Developer", url="https://t.me/RexBots_Official")
+                InlineKeyboardButton(" Official Channel", url="https://t.me/Piras_Official"),
+                InlineKeyboardButton(" Developer", url="https://t.me/LinesOrThreads")
             ]
         ])
 
