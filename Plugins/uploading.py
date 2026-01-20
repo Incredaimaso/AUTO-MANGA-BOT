@@ -127,7 +127,7 @@ class PyrogramHandler:
             if button_url:
                 buttons.append(InlineKeyboardButton("📥 read manga", url=button_url))
             if channel_link:
-                buttons.append(InlineKeyboardButton("📢 join channel", url="https://t.me/about_zani/195"))
+                buttons.append(InlineKeyboardButton("📢 join channel", url="https://t.me/LinesOrThreads"))
                 
             markup = InlineKeyboardMarkup([buttons]) if buttons else None
             
