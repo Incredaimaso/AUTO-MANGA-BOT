@@ -35,7 +35,7 @@ async def settings_main_menu(client, callback_query):
                 InlineKeyboardButton("File Type", callback_data="set_file_type_btn")
             ],
 
-            [InlineKeyboardButton("Rexbots Offical", callback_data="header_watermark")],
+            [InlineKeyboardButton("Piras_Official", callback_data="header_watermark")],
 
             [
                 InlineKeyboardButton("Hyper Link", callback_data="set_hyperlink_btn"),
